@@ -24,10 +24,8 @@
 
     </div>
      
-
+    <script src="index.js"></script>
   </body>
-  <script src="index.js"></script>
-  <footer>
-    www 🎲 App Brewery 🎲 com
-  </footer>
+  
+  
 </html>
